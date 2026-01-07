@@ -1,4 +1,4 @@
-CC-BY-NC License
+MIT License
 
 Copyright (c) 2026 Endstater
 
